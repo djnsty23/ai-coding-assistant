@@ -1,0 +1,54 @@
+{
+  "planning_and_specs": [
+    "Define the tech stack and product requirements, including authentication and analytics dashboard.",
+    "Create a detailed plan for the architecture of a survey platform, including user roles, data flow, and UI components."
+  ],
+  "proof_of_concept": [
+    "Prototype the core functionality of survey creation, question types, and response collection using AI to expedite development."
+  ],
+  "project_setup": [
+    "Choose a domain name and register it.",
+    "Set up a GitHub repository for version control of the project.",
+    "Create project directories for server and client (React) code."
+  ],
+  "spec_refinement": [
+    "Use AI to clarify and enhance specifications for components like survey designer and analytics dashboard.",
+    "Iterate on specifications based on feedback received during development."
+  ],
+  "implementation": [
+    "Implement authentication using Firebase, integrating it into the front-end and back-end smoothly.",
+    "Develop the front-end UI components using React, ensuring they are modular and reusable.",
+    "Set up Express.js server with RESTful API endpoints for survey management."
+  ],
+  "ui_refinement": [
+    "Apply styling enhancements using Tailwind CSS to improve the UI.",
+    "Iterate on user interface elements based on user feedback."
+  ],
+  "modular_prompts": [
+    "Create modular prompts that allow for quick adjustments to component designs or functionalities in response to user needs."
+  ],
+  "iteration_and_debugging": [
+    "Test each component thoroughly, iterating on the implementation based on errors encountered during testing.",
+    "Use AI to troubleshoot and debug, but also rely on manual error checks when necessary."
+  ],
+  "best_practices": [
+    "Keep files within manageable sizes for better AI context understanding.",
+    "Use version control (like Git) frequently to save states before significant changes are made.",
+    "Start simple: build core features before expanding the scope to more complex functionalities."
+  ],
+  "tools_and_technologies": [
+    "Cursor (AI coding assistant)",
+    "Claude Sonet 3.5 (AI model)",
+    "React and Create React App",
+    "Express.js for server-side",
+    "Firebase for authentication",
+    "MongoDB for flexible document structure",
+    "Cloudflare Pages for hosting front-end",
+    "Google App Engine for back-end deployment."
+  ],
+  "donts": [
+    "Avoid overwhelming the AI with too much context at once, especially when dealing with multiple interdependent components.",
+    "Do not rely solely on AI for debugging; review the code and logic manually when issues arise.",
+    "Maintain clear boundaries for tasks being handled by AI to prevent scope creep."
+  ]
+}

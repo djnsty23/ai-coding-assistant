@@ -1,0 +1,54 @@
+{
+  "planning_and_specs": [
+    "Spend significant time upfront to write clear and detailed specifications.",
+    "Imitate the workflow of a product team, where a product manager writes the core functionality specifications, which are then expanded upon by an engineering manager into individual tickets and project architecture.",
+    "Use a common structure for specs that includes project overview, core functionalities, documentation for key features, file structure, and additional requirements."
+  ],
+  "proof_of_concept": [
+    "Create a draft specification that outlines the core functionalities needed for the project.",
+    "Build a proof of concept early to establish clarity on core functionalities."
+  ],
+  "project_setup": [
+    "Set up version control using GitHub.",
+    "Open the AI coding tool (such as Cursor) for the project.",
+    "Use a structured approach for project setup, which includes creating an instructions folder and defining a clear file structure."
+  ],
+  "spec_refinement": [
+    "Iterate on initial specs based on feedback and findings during the proof of concept stage.",
+    "Communicate the specifications effectively to ensure alignment among team members."
+  ],
+  "implementation": [
+    "Implement functionalities step by step based on the defined specifications.",
+    "Use modular, reusable prompts to build common functionalities like authentication and payment systems efficiently."
+  ],
+  "ui_refinement": [
+    "Separate the implementation of functionality from UI design, handling UI interactions as a secondary step after core functionalities are established.",
+    "Use design tools (like VZero) to improve UI based on defined specifications and requirements."
+  ],
+  "modular_prompts": [
+    "Create a collection of reusable prompts for common functionalities (e.g., authentication, payment processing).",
+    "Share and leverage community-generated modular prompts to avoid reinventing the wheel."
+  ],
+  "iteration_and_debugging": [
+    "Iterate and debug systematically, breaking down complex issues into smaller steps for better results.",
+    "Prompt the AI to think step by step through problems for clearer problem-solving.",
+    "Use techniques like 'help me debug' to clarify issues."
+  ],
+  "best_practices": [
+    "Spend time upfront on planning and specifications to reduce uncertainty.",
+    "Implement functionality first before starting UI design.",
+    "Use descriptive project overviews and detailed core functionality explanations in specs."
+  ],
+  "tools_and_technologies": [
+    "Cursor (for AI coding and functional implementation)",
+    "VZero (for UI design refinement)",
+    "GitHub (for version control)",
+    "npm (for managing dependencies and packages)",
+    "`snowwrap` (as a specific example of a package used for fetching data)."
+  ],
+  "donts": [
+    "Avoid starting with UI design before core functionalities are defined.",
+    "Do not expect the AI to understand vague or poorly defined inputs; clarity is crucial for success in AI coding workflows.",
+    "Avoid combining too many complex functionalities into single prompts."
+  ]
+}
